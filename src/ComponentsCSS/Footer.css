@@ -1,0 +1,19 @@
+.footer {
+    background-color: #ffdacc;
+    display: grid;
+    justify-content: left;
+    height: 2.5rem;
+    margin-top: 20rem;
+    position: relative;
+  }
+  
+  .footer-heading {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 1rem;
+    width: 100%;
+    text-align: left;
+    margin-top: 0.3rem; 
+    margin-left: 10px; 
+    position: absolute;
+  }

@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  .Post-section1 {
+    display: grid;
+    background-color: rgb(219, 211, 211);
+    justify-content: flex;
+    position: absolute;
+    border-radius: 1rem;
+  }
+  
+  .Post-heading1 {
+    color: rgb(59, 58, 58);
+    font-size: 3vw;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: left;
+    margin-left: 1rem;
+    position: relative;
+    display: flex;
+    margin-top: 1rem;
+  }

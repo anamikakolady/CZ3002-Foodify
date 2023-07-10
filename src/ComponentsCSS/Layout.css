@@ -1,0 +1,39 @@
+.logo{
+    width: 20%;
+    height:auto;
+  }
+
+  .section1 {
+    display:flex;
+    justify-content: center;
+  }
+
+  .img1 {
+    width: 100%;
+    filter: brightness(70%);
+    margin-top: 0.2rem;
+    display: flex;
+  }
+
+  .heading1 {
+    width: 100%;
+    color: white;
+    font-size: 15vw;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: center;
+    margin-top: 2.5rem;
+    position: absolute; 
+  }
+  
+  .description1 {
+    width: 100%;
+    color: white;
+    font-size: 7vw;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: center;
+    margin-top: 7rem;
+    position: absolute;
+  }
+  

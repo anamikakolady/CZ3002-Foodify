@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.Marketplace-heading1 {
+  color: white;
+  font-size: 12vw;
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  width: 18rem;
+  margin-top: -10rem;
+  margin-left: 110rem;
+  position: absolute;
+  display: flex;
+}
+
+.Marketplace-section2 {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.Marketplace-heading2 {
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 3vw;
+  width: 78%;
+  text-align: center;
+  margin-top: -150rem;
+  margin-bottom: 1rem; 
+  margin-left: 195px;
+  position: static;
+}
+
+.Marketplace-heading3 {
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1vw;
+  width: 78%;
+  text-align: center;
+  margin-top: -135rem; 
+  margin-left: 250px;
+  position: static;
+}
+
+.Marketplace-section3 {
+  background-color: white;
+  display: flex;
+  content: left;
+}
+
+.Marketplace-searchbar {
+  color: black;
+  background-color: rgb(243, 238, 238);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1.8vw;
+  width: 96%;
+  height: 75%;
+  text-align: left;
+  margin-top: -125rem; 
+  margin-left: 100px;
+  position: relative;
+  border-radius: 2rem;
+}
+
+
+.Marketplace-section4 {
+  margin-top: -110rem; 
+  background-color: grey;
+  display: flex;
+  justify-content: left;
+
+}
